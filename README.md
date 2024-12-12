@@ -16,7 +16,7 @@
 - 📄 Know about more details [https://drive.google.com/file/d/1KHUfzhPMcBKLNRc0TVxqRpwfC5TD_nJW/view?usp=drivesdk](https://drive.google.com/file/d/1KHUfzhPMcBKLNRc0TVxqRpwfC5TD_nJW/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">**https://www.linkedin.com/in/kavipriya-c-2427752a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
